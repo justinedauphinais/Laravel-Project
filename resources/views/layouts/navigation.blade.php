@@ -10,7 +10,7 @@
     $date = ucfirst(strftime('%A %d %B %Y'));
 ?>
 
-<p class="ml-10 mr-11 mt-2 w-12/12 text-right font-bold font-fjalla"><?= $date ?></p>
+<p class="ml-10 mr-11 mt-2 w-12/12 text-right font-bold font-fjalla text-white"><?= $date ?></p>
 <nav x-data="{ open: false }"
     class="bg-white border-2 border-dark-red mx-10 mt-2 rounded-xl drop-shadow-boite z-50 relative">
     <!-- Primary Navigation Menu -->

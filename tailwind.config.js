@@ -18,8 +18,8 @@ module.exports = {
             },
 
             colors: {
-                "pale-yellow": "#f8d98a",
-                "medium-yellow": "#f6b12f",
+                "pale-yellow": "#9bc7c7",
+                "medium-yellow": "#87a8a8",
                 "dark-yellow": "#709999",
                 "dark-red": "#3e6b6b",
                 "dark-blue": "#015369",
