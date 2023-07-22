@@ -1,3 +1,10 @@
+## Laravel Project
+# Made at school with teammates
+![image](https://github.com/justinedauphinais/Laravel-Project/assets/95946160/977c1257-480c-4f6b-b4ab-5317c79af605)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
