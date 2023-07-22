@@ -1,5 +1,5 @@
-## Laravel Project
-# Made at school with teammates
+# Laravel Project
+## Made at school with teammates
 ![image](https://github.com/justinedauphinais/Laravel-Project/assets/95946160/977c1257-480c-4f6b-b4ab-5317c79af605)
 
 
